@@ -17,7 +17,7 @@ public class OperacionesBasicas {
     // aaaaaaaaaaaaaaaa
     // Christian
     public static Integer multiplicacion(int a, int b){
-        return a + b;
+        return a * b;
     }
 
     public static Double division(int a, int b) throws Exception{
