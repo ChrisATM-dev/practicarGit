@@ -8,13 +8,7 @@ public class OperacionesBasicas {
     public static Integer resta(int a, int b){
         return a - b;
     }
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
-    // aaaaaaaaaaaaaaaa
+
     // Christian
     public static Integer multiplicacion(int a, int b){
         return a * b;
