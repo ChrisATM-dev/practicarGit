@@ -2,13 +2,19 @@ public class OperacionesBasicas {
 
     // Francisca
     public static Integer suma(int a, int b){
-        return 0;
+        return a + b;
     }
 
     public static Integer resta(int a, int b){
-        return 0;
+        return a - b;
     }
-
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
+    // aaaaaaaaaaaaaaaa
     // Christian
     public static Integer multiplicacion(int a, int b){
         return 0;
